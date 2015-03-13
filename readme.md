@@ -35,8 +35,11 @@ This project is an exercises to replicate familiar social network designs.
 * Online Ribbon  
 	- Adding a fancy online ribbon to profile image
 	- Use transform to animate
-	
+
 * Thumbnails  
+	- Use list and float to grid out thumbnails
+	- Use :nth-child() pseudo-selector to add left and right margins every so li's
+	
 * Forms  
 * Posts
 * Icons
