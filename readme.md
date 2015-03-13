@@ -39,8 +39,16 @@ This project is an exercises to replicate familiar social network designs.
 * Thumbnails  
 	- Use list and float to grid out thumbnails
 	- Use :nth-child() pseudo-selector to add left and right margins every so li's
-	
+	- Use before and after selectors to inject attr data and triangular tooltip
+
 * Forms  
+	- Can reuse .thumb class css
+	- When floating a block element, width is determined by content
+	- Set width manually to fill up space
+	- CSS can do math with calc()
+
 * Posts
+	- Use semantic tags to make posts
+	
 * Icons
 * Modal
