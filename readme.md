@@ -33,6 +33,9 @@ This project is an exercises to replicate familiar social network designs.
 	- use pseudo selectors to get divider lines 
 
 * Online Ribbon  
+	- Adding a fancy online ribbon to profile image
+	- Use transform to animate
+	
 * Thumbnails  
 * Forms  
 * Posts
