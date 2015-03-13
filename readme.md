@@ -27,10 +27,10 @@ This project is an exercises to replicate familiar social network designs.
 	- Use text-shadow property to increase contrast on text
 	- set line-height to 1 in order to have large fonts not wrap
 
-* Sidebar  
-	-use negative margin0top to pull .profile picture partly  
-	-use position: relative to make sure profile remains in front of content header  
-	-use pseudo selectors to get divider lines  
+* Sidebar
+	-use negative margin top to pull .profile picture partly 
+	-use position: relative to make sure profile remains in front of content header 
+	-use pseudo selectors to get divider lines 
 
 * Online Ribbon  
 * Thumbnails  
