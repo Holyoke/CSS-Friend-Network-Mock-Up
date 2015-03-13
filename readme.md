@@ -22,7 +22,11 @@ This project is an exercises to replicate familiar social network designs.
 
 * Footer  
 	- Floats in floats
-* Cats  
+
+* Cats 
+	- Use text-shadow property to increase contrast on text
+	- set line-height to 1 in order to have large fonts not wrap
+	
 * Sidebar  
 * Online Ribbon  
 * Thumbnails  
