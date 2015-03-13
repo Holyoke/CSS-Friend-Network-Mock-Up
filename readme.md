@@ -9,14 +9,14 @@ This project is an exercises to replicate familiar social network designs.
 	-Using "#" to avoid page reloads  
 	-Used left and right auto margins to center element within element  
 	-
--Notifications 
--Layout
--Footer
--Cats
--Sidebar
--Online Ribbon
--Thumbnails
--Forms
+-Notifications   
+-Layout  
+-Footer  
+-Cats  
+-Sidebar  
+-Online Ribbon  
+-Thumbnails  
+-Forms  
 -Posts
 -Icons
 -Modal
