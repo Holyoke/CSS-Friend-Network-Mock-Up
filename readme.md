@@ -10,8 +10,13 @@ This project is an exercises to replicate familiar social network designs.
 	- Used left and right auto margins to center element
 	- Whenever one floats, one will need to clearfix
 * Notifications
-	-   
-* Layout  
+	- Combine :hover selector and display property to hide dropdown
+	- use white-space property to keep notification text on one line
+	- use overflow property to fix items poking through bottom 
+	- z-index does not work on static, non positioned elements to ensure header dropdown will stay on top
+
+* Layout 
+	-
 * Footer  
 * Cats  
 * Sidebar  

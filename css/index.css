@@ -151,3 +151,36 @@ li:hover .header-notifications {
 .header-notifications > li:hover {
   background: #eee;
 }
+
+/* layout */
+.content {
+  position: relative;
+  margin: 0 auto;
+  background: #fff;
+  width: 900px;
+}
+
+.content:before {
+  content: "";
+  display: block;
+  position: absolute;
+  top: 0;
+  bottom: 0;
+  left: 240px;
+  width: 1px;
+  background: #ccc;
+}
+
+.content-sidebar {
+  float: left;
+  width: 200px;
+  min-height: 200px;
+  padding: 20px;
+}
+
+.content-main {
+  float: left;
+  width: 620px;
+  min-height: 200px;
+  padding: 20px;
+}
