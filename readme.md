@@ -16,8 +16,12 @@ This project is an exercises to replicate familiar social network designs.
 	- z-index does not work on static, non positioned elements to ensure header dropdown will stay on top
 
 * Layout 
-	-
+	- to create whitespace use margin and padding
+	- use pseudo-content w/ absolute positioning to inherit parent containers
+	- be mindful of coordinate system, so control by setting parent element to relative
+
 * Footer  
+	- Floats in floats
 * Cats  
 * Sidebar  
 * Online Ribbon  
