@@ -51,4 +51,10 @@ This project is an exercises to replicate familiar social network designs.
 	- Use semantic tags to make posts
 	
 * Icons
+	- Sprites reduce HTTP requests overload
+	- [class*="icon-"] pseudo-selector
+	- use inline-block to set sidth and height of icons
+	- use CSS to push text ouf of the box
+	- Repurpose <i> tag for icons
+
 * Modal
