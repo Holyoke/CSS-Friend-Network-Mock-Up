@@ -9,6 +9,7 @@ This project is an exercises to replicate familiar social network designs.
 	- Using "#" to avoid page reloads  
 	- Used left and right auto margins to center element
 	- Whenever one floats, one will need to clearfix
+
 * Notifications
 	- Combine :hover selector and display property to hide dropdown
 	- use white-space property to keep notification text on one line
@@ -53,8 +54,9 @@ This project is an exercises to replicate familiar social network designs.
 * Icons
 	- Sprites reduce HTTP requests overload
 	- [class*="icon-"] pseudo-selector
-	- use inline-block to set sidth and height of icons
+	- use inline-block to set width and height of icons
 	- use CSS to push text ouf of the box
 	- Repurpose <i> tag for icons
+	- Interesting to note that to apply the sprites, one has to slide and position the sprite sheet accordingly
 
 * Modal
