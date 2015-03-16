@@ -60,3 +60,5 @@ This project is an exercises to replicate familiar social network designs.
 	- Interesting to note that to apply the sprites, one has to slide and position the sprite sheet accordingly
 
 * Modal
+	- Created at bottom of the page
+	- Use a jquery to enable toggling
