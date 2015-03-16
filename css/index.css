@@ -545,6 +545,11 @@ li:hover .header-notifications {
   padding-top: 25px; 
 }
 
+[class*="icon-small-"] {
+  width: 20px;
+  padding-top: 20px;
+}
+
 .icon-comment {
   background-position: 0 0;
 }
