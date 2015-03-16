@@ -1,6 +1,9 @@
 ## Social Network Mock Up ##
 This project is an exercises to replicate familiar social network designs.
 
+## Things I wish I did differently ##
+	+ I wish I partitioned the index.css into smaller files. By splitting up the elements, I could focus on that feature and maintain that css better. 
+
 ## Development ##
 + Header
 	- Box-sizing set to inherit so all elements behave the same  
