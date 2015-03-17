@@ -1,5 +1,5 @@
 
-[1]: holyoke.github.io/CSS-Friend-Network-Mock-Up "Live"
+[1]: https://holyoke.github.io/CSS-Friend-Network-Mock-Up "Live"
 
 [Click here for a Live Demo!][1]
 
